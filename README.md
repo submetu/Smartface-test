@@ -9,7 +9,7 @@ To install the dependencies run\
 To start the project, run\
 `npm start`\
 To run the tests, run\
-`npm test`/
+`npm test`
 
 
 ## Structure of the project
@@ -17,7 +17,7 @@ The project consists of a simple index.html file that is served via the web pack
 Webpack is used for code bundling and for converting es6 to es5.\
 There are some basic styles in the `style.css` file. \
 The project starts with the `index.js` file. \
-We have three base classes.\
+We have three base classes.
 1. Game
 2. Player
 3. Computer
