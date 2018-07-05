@@ -1,0 +1,35 @@
+body {
+  max-width: 900px;
+  text-align:  center;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+div#result {
+  font-size:  20px;
+  padding: 30px;
+  color: red;
+  font-weight: bold;
+}
+
+button#roll {
+  color: white;
+  background: tomato;
+  font-size: 16px;
+  border-radius: 3px;
+  border:  none;
+  cursor: pointer;
+  padding: 10px 40px;
+}
+
+#player-container h1 {
+  color:  deepskyblue;
+}
+
+#computer-container h1 {
+  color: deepskyblue;
+}
+
+body {
+  background: #f1f0f0;
+}
